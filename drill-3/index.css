@@ -1,0 +1,67 @@
+
+#grey{
+    background-color: rgb(212, 212, 212);
+    height: 7vw;
+    width: 100%;
+}
+
+
+#blueSmall{
+    background-color: cornflowerblue;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    top: 2ch;
+    left: 2ch;
+}
+
+#text{
+    /* text-align: justify; */
+    padding: 50px;
+}
+
+#white{
+    background-color: rgb(255, 255, 255);
+    height: 20vw;
+    width: 100%;
+    
+    padding: 0.5cm;
+    
+}
+
+#blueBig{
+    background-color: cornflowerblue;
+    height: 15vw;
+    width: 100%;
+}
+
+#green{
+    background-color: rgb(88, 231, 172);
+    height: 15vw;
+    width: 100%;
+}
+
+#whhiteGreen{
+    background-color: rgb(152, 204, 56);
+    height: 15vw;
+    width: 100%;
+}
+
+#yellow{
+    background-color: rgb(236, 235, 127);
+    height: 15vw;
+    width: 100%;
+}
+
+#question{
+     position: fixed;
+     right: 10px;
+     bottom: 10px;
+     height: 60px;
+     width: 60px;
+     background-color: black;
+     color: white;
+     border: none;
+     border-radius: 50%;
+     font-size: 30px;
+}
